@@ -41,7 +41,7 @@ h1 {
 }
 
 h1 strong {
-    background: rgb(251, 252, 252);
+    background: #D0CCD0;
     color: #D0CCD0;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
