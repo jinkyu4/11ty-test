@@ -15,6 +15,7 @@ nav {
 
 nav ul {
     display: flex;
+    list-style-type: none;
     justify-content: space-evenly;
     margin: 0;
     padding: 0;
