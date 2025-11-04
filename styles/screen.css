@@ -42,7 +42,7 @@ h1 {
 }
 
 h1 strong {
-    background: rgb(34,193,195);
+    background: rgb(251, 252, 252);
     color: #f7f7f8;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
