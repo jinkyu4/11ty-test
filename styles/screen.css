@@ -50,3 +50,9 @@ h1 strong {
 img.about {
     opacity: 0.5;
 }
+
+p {
+    color: #D0CCD0;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
