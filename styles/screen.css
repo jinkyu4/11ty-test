@@ -15,20 +15,21 @@ nav {
 
 nav ul {
     display: flex;
-    list-style-type: none;
     justify-content: space-evenly;
     margin: 0;
     padding: 0;
 }
 
-nav ul li {
+ul {
     list-style-type: none;
+}
+
+nav ul li {
     margin: 0;
 }
 
 nav ul li a {
     display: inline-block;
-    list-style-type: none;
     padding: 20px;
     color: #EAE8FF;
     text-decoration: none;
