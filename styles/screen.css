@@ -1,7 +1,7 @@
 body {
     font-family: Helvetica, sans-serif;
-    color: #321c1c;
-    background: #2D3142;
+    color: #f9f9f9;
+    background: #2e2020;
     padding: 0 40px;
     text-align: center;
 }
@@ -42,7 +42,8 @@ h1 {
 }
 
 h1 strong {
-    color: #EAE8FF;
+    background: rgb(34,193,195);
+    color: #f7f7f8;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
